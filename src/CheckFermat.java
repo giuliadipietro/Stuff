@@ -13,7 +13,7 @@ public class CheckFermat {
 			System.out.println("Holy smokes, Fermat was wrong!");
 		}
 		else {
-			System.out.println("No, that doesn’t work.");
+			System.out.println("No, that doesn’t work. Are you stupid?");
 		}
 	}
 
